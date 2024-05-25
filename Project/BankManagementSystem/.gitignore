@@ -1,0 +1,5 @@
+*.o
+*.exe
+*.out
+data/accounts.dat
+build/
